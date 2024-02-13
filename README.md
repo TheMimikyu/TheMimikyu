@@ -2,7 +2,7 @@
 
 I'm a student at Indian Institute of Information Technology Bhagalpur, pursuing a Bachelor of Technology in Computer Science and Engineering.
 
-- 🔭 I’m currently working on [CareerDuck](https://github.com/TheMimikyu/CareerDuck), a web app that helps students find their dream jobs
+- 🔭 I’m currently working on [CareerDuck](https://github.com/TheMimikyu/CareerDuck), a web app that helps students find their dream careerpaths.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on open source projects related to web development, machine learning, or data science
 - 💬 Ask me anything about Python, C++, HTML, CSS, or JavaScript
