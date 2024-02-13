@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![An image of @themimikyu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themimikyu)](https://holopin.io/@themimikyu)
+
