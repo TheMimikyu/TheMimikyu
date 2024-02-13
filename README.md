@@ -6,7 +6,7 @@ I'm a student at Indian Institute of Information Technology Bhagalpur, pursuing 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on open source projects related to web development, machine learning, or data science
 - 💬 Ask me anything about Python, C++, HTML, CSS, or JavaScript
-- 📫 How to reach me: angelwithadream@gmail.com or [LinkedIn] (https://www.linkedin.com/in/vedant-yadav-33a134259/)
+- 📫 How to reach me: angelwithadream@gmail.com or [LinkedIn].(https://www.linkedin.com/in/vedant-yadav-33a134259/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing Pokemon games and my favorite Pokemon is Mimikyu.
 
