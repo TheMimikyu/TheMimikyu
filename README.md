@@ -1,4 +1,4 @@
-![👋 Hi, my name is Vedant Yadav](https://github.com/TheMimikyu/TheMimikyu/blob/main/github-header-image.png?raw=true)
+![👋 Hi, my name is Vedant Yadav](https://github.com/TheMimikyu/TheMimikyu/blob/main/banner.png?raw=true)
 ![Profile views](https://komarev.com/ghpvc/?username=theMimikyu&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
