@@ -1,4 +1,5 @@
 ![Vedant Yadav | AI Engineer & Open Source Contributor](https://github.com/user-attachments/assets/505e9fb5-7373-407b-8b02-3238a6b534f8)
+
 ![Profile views](https://komarev.com/ghpvc/?username=theMimikyu&label=Profile%20views&color=0e75b6&style=flat)
 
 
@@ -37,14 +38,14 @@
 
 ### 🛠️ **Technical Arsenal**
 #### **NLP/ML Core**
-![Haystack](https://img.shields.io/badge/Haystack-Expert-FF6F00?logo=pytorch)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-Production-412991)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-Arize_Phoenix-3F4F75)
+![Haystack](https://img.shields.io/badge/Haystack-FF6F00?logo=pytorch)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-412991)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-3F4F75)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
 
 #### **Tools & Platforms**
-![Azure AI](https://img.shields.io/badge/Azure_AI-Expert-0078D4?logo=microsoft-azure)
-![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-326CE5?logo=kubernetes)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoft-azure)
+![Weaviate](https://img.shields.io/badge/Vector_DB-326CE5?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
 
@@ -61,3 +62,16 @@
 ![Python](https://img.shields.io/badge/Python-45%25-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
 ![Jupyter](https://img.shields.io/badge/Jupyter-25%25-orange)
+
+### 💡 Rapid Fire
+* 🌱 Learning: Advanced RAG optimization techniques.
+* 👨💻 Current Focus: [Ambitus Intelligence](https://github.com/Ambitus-Intelligence) market research platform.
+* 🎯 2025 Goal: Contribute 10+ PRs to OSS AI projects.
+* ⚡ Fun Fact: My code once helped diagnose crop diseases for 10+ Indian farms. 🌾
+
+### 📜 Featured Writing + Collected Resources
+
+[![Haystack Beginner's Guide](https://img.shields.io/badge/Haystack_Beginner's_Guide-darkblue)](https://www.linkedin.com/pulse/haystack-framework-beginners-guide-my-advent-journey-vedant-yadav-mk08c)
+
+[![ML Learning Resources](https://img.shields.io/badge/ML_Learning_Resources-skyblue)](https://vedantcantsleep.notion.site/)
+
