@@ -54,7 +54,7 @@
 ### 📈 **GitHub DNA**
 <!-- Remove stats cards and replace with contribution highlights -->
 #### **Recent Impact**
-[![Haystack Contribution](https://img.shields.io/badge/Haystack_Core-Integration_Fix-brightgreen)](https://github.com/deepset-ai/haystack-core-integrations/pull/1260)
+[![Haystack Contribution](https://img.shields.io/badge/Haystack_Core-3+_Merged_PR-brightgreen)](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3ATheMimikyu+)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-41_Merged_PR-purple)](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3ATheMimikyu)
 
 #### **Activity**
