@@ -25,14 +25,15 @@
 
 ### 🔥 **Featured Work**
 #### **Core Projects**
+
+[![Ambitus Intelligence](https://img.shields.io/badge/Ambitus_Intelligence-Market_Intelligence_Automation-38B2AC?logo=openai&style=for-the-badge)](https://github.com/Ambitus-Intelligence/ambitus-ai-models)
+> Building end to end automate market research platform using multi-agent architecture
+
 [![Advent of Haystack](https://img.shields.io/badge/Advent_of_Haystack-2024-412991?logo=openai&style=for-the-badge)](https://github.com/TheMimikyu/adventOfHaystack)
 > Explore capabilities of Haystack framwork including (but not limited to) hybrid search & speech-to-text capabilities
 
 [![Mappa AI](https://img.shields.io/badge/Mappa_AI-Mind_Mapping-61DAFB?logo=react&style=for-the-badge)](https://github.com/TheMimikyu/mappa)
 > Local LLM-powered mind mapper with React Flow UI • Works on local device via Ollama
-
-[![Ambitus Intelligence](https://img.shields.io/badge/Ambitus_Intelligence-Market_Intelligence_Automation-38B2AC?logo=openai&style=for-the-badge)](https://github.com/Ambitus-Intelligence)
-> Building end to end automate market research platform using multi-agent architecture
 
 ---
 
