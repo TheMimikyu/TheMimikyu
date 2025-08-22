@@ -1,78 +1,121 @@
-![Vedant Yadav | AI Engineer & Open Source Contributor](https://github.com/user-attachments/assets/505e9fb5-7373-407b-8b02-3238a6b534f8)
+<h1 align="center">Hi there, I'm Vedant 👋</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=theMimikyu&label=Profile%20views&color=0e75b6&style=flat)
+<h3 align="center">Software Engineer building intelligent, scalable AI systems.</h3>
 
-
-<h3 align="center">🔗 Connect</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/thevedantyadav" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge" height="28">
-  </a>
-  <a href="https://knowvedant.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio(🚧🚧)-4285F4?style=for-the-badge" height="28">
-  </a>
-  <a href="mailto:v010010001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" height="28">
-  </a>
+  <a href="https://linkedin.com/in/thevedantyadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
+  <a href="mailto:v010010001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
 </p>
+<br>
+---
 
-<h3 align="center">🚀 AI Engineer specializing in NLP systems</h3>
+## 🙋‍♂️ About Me
+
+> 👨‍💻 I'm a Computer Science undergraduate with a strong foundation in core software engineering principles. My focus is on architecting and deploying **robust backend systems** and **multi-agent platforms** that solve real-world problems.
+>
+> 🚀 I thrive on building **scalable microservices**, optimizing data pipelines, and contributing to impactful **open-source projects**.
+>
+>---
+>
+> 💡 **Currently Building:** I'm engineering a multi-agentic personalized learning platform from the ground up.
+>
+>---
+
+### 🏆 Achievements
+
+* **⚙️ Founding AI/ML Engineer**: Helped build the core team at Quamin, leading initial development and guiding cross-functional setup. 
+* **🥇 Hackathon Winner**: Placed 1st in `CodeRelay 3.0` (IIT Bhubaneswar) out of 50+ teams in a 30-hour offline hackathon. 
+* **💻 Competitive Programming**: Ranked 44th in CodeChef Starter 198 (rated 1758)  and have solved over 400 problems on various platforms. 
+* **👥 Community Leadership**: Selected to lead my college's AI Club, growing membership by 200% by organizing 5+ events.  I also managed 2 open-source projects for OPCODE (OSS Fest). 
+* **🎉 Advent of Haystack 2024**: Won over $100 for successfully completing the community event challenges. 
+
+### 🛠️ My Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <br><strong>C++</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" alt="SQL" />
+      <br><strong>SQL</strong>
+    </td>
+     <td align="center" width="120">
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" width="40" height="40" alt="FastAPI" />
+      <br><strong>FastAPI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+        <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" width="40" height="40" alt="LangChain" />
+      <br><strong>LangChain</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
+      <br><strong>GCP</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" />
+      <br><strong>GitHub Actions</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Shell Scripting" />
+      <br><strong>Shell Script</strong>
+    </td>
+  </tr>
+</table>
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  Building production-grade RAG pipelines • Exploring Haystack • Open Source advocate
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMimikyu&show_icons=true&theme=radical" alt="Vedant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMimikyu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-### 🔥 **Featured Work**
-#### **Core Projects**
-
-[![Ambitus Intelligence](https://img.shields.io/badge/Ambitus_Intelligence-Market_Intelligence_Automation-38B2AC?logo=openai&style=for-the-badge)](https://github.com/Ambitus-Intelligence/ambitus-ai-models)
-> Building end to end automate market research platform using multi-agent architecture
-
-[![Advent of Haystack](https://img.shields.io/badge/Advent_of_Haystack-2024-412991?logo=openai&style=for-the-badge)](https://github.com/TheMimikyu/adventOfHaystack)
-> Explore capabilities of Haystack framwork including (but not limited to) hybrid search & speech-to-text capabilities
-
-[![Mappa AI](https://img.shields.io/badge/Mappa_AI-Mind_Mapping-61DAFB?logo=react&style=for-the-badge)](https://github.com/TheMimikyu/mappa)
-> Local LLM-powered mind mapper with React Flow UI • Works on local device via Ollama
-
----
-
-### 🛠️ **Technical Arsenal**
-#### **NLP/ML Core**
-![Haystack](https://img.shields.io/badge/Haystack-FF6F00?logo=pytorch)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-412991)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-3F4F75)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-
-#### **Tools & Platforms**
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?logo=microsoft-azure)
-![Weaviate](https://img.shields.io/badge/Vector_DB-326CE5?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-
----
-
-### 📈 **GitHub DNA**
-<!-- Remove stats cards and replace with contribution highlights -->
-#### **Recent Impact**
-[![Haystack Contribution](https://img.shields.io/badge/Haystack_Core-3+_Merged_PR-brightgreen)](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3ATheMimikyu+)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-41_Merged_PR-purple)](https://github.com/tldr-pages/tldr/pulls?q=is%3Apr+author%3ATheMimikyu)
-
-#### **Activity**
-<!-- Customize with your actual stats -->
-![Python](https://img.shields.io/badge/Python-45%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
-![Jupyter](https://img.shields.io/badge/Jupyter-25%25-orange)
-
-### 💡 Rapid Fire
-* 🌱 Learning: Advanced RAG optimization techniques.
-* 👨💻 Current Focus: [Ambitus Intelligence](https://github.com/Ambitus-Intelligence) market research platform.
-* 🎯 2025 Goal: Contribute 10+ PRs to OSS AI projects.
-* ⚡ Fun Fact: My code once helped diagnose crop diseases for 10+ Indian farms. 🌾
-
-### 📜 Featured Writing + Collected Resources
-
-[![Haystack Beginner's Guide](https://img.shields.io/badge/Haystack_Beginner's_Guide-darkblue)](https://www.linkedin.com/pulse/haystack-framework-beginners-guide-my-advent-journey-vedant-yadav-mk08c)
-
-[![ML Learning Resources](https://img.shields.io/badge/ML_Learning_Resources-skyblue)](https://vedantcantsleep.notion.site/)
-
